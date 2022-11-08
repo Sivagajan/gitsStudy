@@ -7,3 +7,5 @@ const aFunction = () => {
 console.log('Christian ist COOL')
 
 aFunction(rinde)
+
+// dschufdsakncjhgdfs
