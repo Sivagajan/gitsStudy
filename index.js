@@ -6,4 +6,4 @@ const aFunction = () => {
 
 console.log('Christian ist COOL')
 
-aFunction()
+aFunction(rinde)
