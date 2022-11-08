@@ -4,4 +4,6 @@ const aFunction = () => {
     const trainer = 2
 }
 
+console.log('Christian ist COOL')
+
 aFunction()
