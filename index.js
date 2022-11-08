@@ -3,3 +3,5 @@ const aFunction = () => {
     const lambos = 11
     const trainer = 2
 }
+
+aFunction()
